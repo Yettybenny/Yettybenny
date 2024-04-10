@@ -6,15 +6,11 @@
 - [Recommendations](#recommendations)
 
 # PROJECT OVERVIEW
+![Sales Dashboard](https://github.com/Yettybenny/Yettybenny/assets/145848340/999d94e8-ea3b-4141-a926-137c7609d1a4)
 
 This sales analysis project aims to provide insights into the sales performance of Datakliq company over the past year. By analysing various aspects of the sales data, we seek to identify trends, make data-driven recommendation, and gain a deeper insight of the company performance.
 
 
-
-
-![Sales Dashboard](https://github.com/Yettybenny/Yettybenny/assets/145848340/3b201858-b7a4-4405-a176-0747a702cdee)
-
-![Sales Dashboard](https://github.com/Yettybenny/Yettybenny/assets/145848340/810faa98-f5b0-4699-8569-5c36e1bbb8c9)
 
 
 ## DATA SOURCES 
