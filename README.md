@@ -9,6 +9,12 @@
 
 This sales analysis project aims to provide insights into the sales performance of Datakliq company over the past year. By analysing various aspects of the sales data, we seek to identify trends, make data-driven recommendation, and gain a deeper insight of the company performance.
 
+
+
+
+![Sales Dashboard](https://github.com/Yettybenny/Yettybenny/assets/145848340/810faa98-f5b0-4699-8569-5c36e1bbb8c9)
+
+
 ## DATA SOURCES 
 
 Sales data: The primary dataset used for this analysis is the "sales.csv" file,containing detailed information about each sale made by Datakliq
