@@ -12,6 +12,8 @@ This sales analysis project aims to provide insights into the sales performance 
 
 
 
+![Sales Dashboard](https://github.com/Yettybenny/Yettybenny/assets/145848340/3b201858-b7a4-4405-a176-0747a702cdee)
+
 ![Sales Dashboard](https://github.com/Yettybenny/Yettybenny/assets/145848340/810faa98-f5b0-4699-8569-5c36e1bbb8c9)
 
 
