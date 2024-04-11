@@ -16,7 +16,7 @@ Sales data: The primary dataset used for this analysis is the "sales.csv" file,c
 
 ### TOOLS
 
-*Miccrosoft Excel [Download here](https://microsoft.com)
+*Microsoft Excel [Download here](https://microsoft.com)
   - Data Cleaning
   - Data Visualization
   - Dashboard Creation
@@ -58,7 +58,7 @@ Sales data: The primary dataset used for this analysis is the "sales.csv" file,c
     * Implement targeted marketing
     * Enhance sales training
     * Design incentive programs to boost sales performance and achieve growth objectives.
-![Sales Dashboard](https://github.com/Yettybenny/Yettybenny/assets/145848340/91d51019-0aa0-465b-b95c-1d8ed635fd49)
+
 
 
 
